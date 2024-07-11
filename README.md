@@ -40,7 +40,7 @@ Model/Dataset
 ### **You can find dataset and model in link below**.
 |Model and Dataset |
 | ------------- | 
-|      [Model](https://drive.google.com/file/d/1tIWTDujdq5xiZAbH0i2-TCzJ3TRENvuV/view?usp=sharing)      |
+|      [Model](https://drive.google.com/file/d/1UV9VHbDDxTtgyrnUU8di1IpKiERH9ub-/view?usp=sharing)      |
 |      [Dataset](https://universe.roboflow.com/project-unkxj/face-detection-0zqc9/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)  
 
 
