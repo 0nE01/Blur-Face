@@ -19,20 +19,20 @@ In this project :
 Resulte
 ----
 <div align="center">
-  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/1df6834e-9390-4fbc-8be3-5f52459eef72"  width="40%" height="370">
-  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/6e7f2ad5-35a6-40ce-a459-0ebd71bf6974" width="40%" height="370">
+  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/1df6834e-9390-4fbc-8be3-5f52459eef72"  width="40%" height="330">
+  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/6e7f2ad5-35a6-40ce-a459-0ebd71bf6974" width="40%" height="330">
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/577737d1-afef-48ae-813c-0ab323b5a124"  width="40%" height="370">
-  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/739088a0-b26e-4bc7-92ba-344e7a45e3e4" width="40%" height="370">
+  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/577737d1-afef-48ae-813c-0ab323b5a124"  width="40%" height="330">
+  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/739088a0-b26e-4bc7-92ba-344e7a45e3e4" width="40%" height="330">
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/51cfaa55-af07-424c-9915-dcbadec3edfb" width="40%" height="370">
-  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/596ed74c-a090-4d93-85eb-bb79e8585a00"  width="40%" height="370">
+  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/51cfaa55-af07-424c-9915-dcbadec3edfb" width="40%" height="330">
+  <img src="https://github.com/0nE01/Blur-Face/assets/127254729/596ed74c-a090-4d93-85eb-bb79e8585a00"  width="40%" height="330">
 </div>
 
 Model/Dataset
